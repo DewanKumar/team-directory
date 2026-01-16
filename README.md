@@ -104,6 +104,14 @@ INSERT INTO Employees (FirstName, LastName, Role) VALUES
 
 ---
 
+## 🎥 Demo Video
+
+A short 2-minute walkthrough explaining the database, backend API, and frontend UI:
+
+🔗 Video Link: https://drive.google.com/file/d/1r2fr2MZMQBIqp0hU6O87CmtHufgzY8bE/view?usp=sharing
+
+
+
 ## 👤 Author
 
  **DEWAN KUMAR**
